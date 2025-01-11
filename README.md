@@ -5,7 +5,7 @@
 
 ## Actividad 1: Curso de Junior Programmer.
 1. [Lección 02 Jugabilidad Básica](https://github.com/CDuav/CVU1R2/blob/main/Lecciones/Lecci%C3%B3n%202.unitypackage)
-2. [Lección 03 Sonidos y Efectos](#lección-03-sonidos-y-efectos)
+2. [Lección 03 Sonidos y Efectos](https://github.com/CDuav/CVU1R2/blob/main/Lecciones/Lecci%C3%B3n%203.unitypackage)
 3. [Lección 05 Interfaz de Usuario](#lección-05-interfaz-de-usuario)
 
 ## Actividad 2: Desafíos
