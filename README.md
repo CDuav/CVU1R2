@@ -15,6 +15,9 @@
 
 ---
 
+## Lección 02 Jugabilidad Básica
+
+
 ## Lección 03 Sonidos y Efectos
 Detalles sobre cómo implementar sonidos y efectos en el juego.
 
