@@ -5,8 +5,11 @@
 
 ## Actividad 1: Curso de Junior Programmer.
 1. [Lección 02 Jugabilidad Básica](https://github.com/CDuav/CVU1R2/blob/main/Lecciones/Lecci%C3%B3n%202.unitypackage)
+   - [Ejecución de la Lección](https://youtu.be/v4GJw6EqVYU)
 2. [Lección 03 Sonidos y Efectos](https://github.com/CDuav/CVU1R2/blob/main/Lecciones/Lecci%C3%B3n%203.unitypackage)
+   - [Ejecución de la Lección](https://youtu.be/nrBujzGlP_s)
 3. [Lección 05 Interfaz de Usuario](#lección-05-interfaz-de-usuario)
+   - [Ejecución de la Lección](https://youtu.be/v4GJw6EqVYU)
 
 ## Actividad 2: Desafíos
 1. [Desafío 1: Jugar a traer la pelota.](https://github.com/CDuav/CVU1R2/blob/main/Desafios/Desaf%C3%ADo%2001%20Jugar%20a%20la%20Pelota.unitypackage)
